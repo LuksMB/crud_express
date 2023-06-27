@@ -12,7 +12,6 @@ let id = 5;
 
 class ProfessorService {
 
-
     static list(){
         return professores;
     }
